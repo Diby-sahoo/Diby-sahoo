@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/dibyasundar sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dibyasundar sahoo" height="30" width="40" /></a>
 <a href="https://fb.com/spoty lucky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="spoty lucky" height="30" width="40" /></a>
-<a href="https://instagram.com/it_dibya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="it_dibya" height="30" width="40" /></a>
+<a href="https://instagram.com/it_dibya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="it_dibya_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/dibyasundar sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dibyasundar sahoo" height="30" width="40" /></a>
 </p>
 
